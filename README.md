@@ -1,0 +1,2 @@
+# nanoGPT
+Decoder only transformer 
